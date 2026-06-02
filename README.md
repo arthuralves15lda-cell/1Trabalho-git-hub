@@ -1,4 +1,4 @@
-# 1Trabalho-git-hub
+# Trabalho-git-hub
 # Trabalho sobre Comandos Git
 
 ## Integrantes
